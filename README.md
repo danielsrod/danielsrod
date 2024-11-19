@@ -3,7 +3,7 @@
 ###
 
 <p align="left">my name is Daniel Rodrigues, 25yo</p>
-<p align="left">full stack developer @ [healthd](https://www.linkedin.com/company/healthd-digital)</p>
+<p align="left">full stack developer @ <a href="https://www.linkedin.com/company/healthd-digital" target="_blank">healthd</a></p>
 
 ###
 
